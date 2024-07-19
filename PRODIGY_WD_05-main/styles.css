@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url('images/bg\ img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main, .forecast {
+    background-color:  #87cfebac;
+    color: white;
+}
+.weather-info h1{
+    font-size: 70px;
+}
+.forecast-items {
+    background-color: #4d9ae7aa;
+}
+
+
